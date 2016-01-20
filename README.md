@@ -14,7 +14,7 @@
 
 * www文件夹下存放html页面
 * 先双击打开WebServer.exe
-* 打开浏览器输入127.0.0.1:81//baidu.html(如果输入其他页面会显示NotFound页面)
+* 打开浏览器输入127.0.0.1:81//baidu.html(输入已存放在www文件夹下的html文件，如果输入其他不存在页面会显示NotFound页面)
 
 **截图：**
 
